@@ -23,7 +23,7 @@
 
 
 ## Reference Links
-https://www.golinuxcloud.com/pssh-commands-parallel-ssh-linux-examples/
-https://www.golinuxcloud.com/generate-ssh-key-linux/
-https://www.cyberciti.biz/cloud-computing/how-to-use-pssh-parallel-ssh-program-on-linux-unix/
-https://www.tecmint.com/execute-commands-on-multiple-linux-servers-using-pssh/
+1. https://www.golinuxcloud.com/pssh-commands-parallel-ssh-linux-examples/
+2. https://www.golinuxcloud.com/generate-ssh-key-linux/ 
+3. https://www.cyberciti.biz/cloud-computing/how-to-use-pssh-parallel-ssh-program-on-linux-unix/
+4. https://www.tecmint.com/execute-commands-on-multiple-linux-servers-using-pssh/
